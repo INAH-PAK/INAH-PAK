@@ -1,6 +1,6 @@
 ###  INAH
 
-✨I'm taking an '안드로이드 네이티브 + 하이브리드 앱&웹 class' .
+
 ⚡ Kotlin, Java, C#, C++, Python, C, HTML, CSS, Java Script
 🔭Firebase, PHP, DBMS
 <!--
